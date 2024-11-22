@@ -1,0 +1,7 @@
+Features
+
+    Add Expense Input amount, category, and description.
+    Edit Expense Modify an existing expense by specifying its index.
+    Delete Expense Remove an expense by its index.
+    Display Expenses Show a list of all entered expenses.
+    Display Total Monthly Expenses Calculate and display the total expenses for the current month.
